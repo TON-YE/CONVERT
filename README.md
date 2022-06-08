@@ -8,4 +8,4 @@ cd CONVERT
 
 ls
 
-python 
+python convert_enc.py
